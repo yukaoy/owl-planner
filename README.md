@@ -1,0 +1,2 @@
+# owl-planner
+This Productivity App is a simple, one-page website. The main feature of the app is a list of tasks. These are all the tasks available on the website. Users can move tasks freely between three columns (Not Started, In Progress, Completed). Users can also filter tasks based on their category (class, workspace) and order them based on their due date. Users can also add and remove tasks freely.
