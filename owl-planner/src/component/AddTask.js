@@ -10,6 +10,7 @@ const AddTask = () => {
           <div className='form-control'>
               <input style={{border:'none'}} type='task' placeholder='Descirption of Assignment'></input>
           </div>
+          <input type='submit' value='Save Task' className='btn btn-block' />
         
       </form>
     )
