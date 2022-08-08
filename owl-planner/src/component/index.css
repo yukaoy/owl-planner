@@ -50,8 +50,13 @@ body {
 }
 
 .btn-block {
+  position:relative;
+  top:20px;
+  bottom:0px;
+  right:10px;
+  left:150px;
   display: block;
-  width: 100%;
+  width: 20%;
 }
 
 .task {
